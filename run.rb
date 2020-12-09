@@ -1,5 +1,6 @@
 require 'pry'
 Nick
+Jonathan
 spicy_foods = [
   { name: 'Buffalo Wings', cuisine: 'American', heat_level: 3 },
   { name: 'Mapo Tofu', cuisine: 'Sichuan', heat_level: 6 },
